@@ -1,16 +1,6 @@
-# week3assignment
+# BMI Calculation
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Aladhami_Week4](https://github.com/FakhriAladhami/BMI-Calculation/assets/105823355/ef4c7f39-e27b-4b36-9027-1cbf3fad5dc6)
